@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89badd72-e7e8-43dd-b8a4-89475301901a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Face_Verification_based_Attendance_system.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/bg_img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_video.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_video.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendence_sys/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/attendence_sys/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendence_sys/recognizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/attendence_sys/recognizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendence_sys/templates/attendence_sys/attendence.html" beforeDir="false" afterPath="$PROJECT_DIR$/attendence_sys/templates/attendence_sys/attendence.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendence_sys/templates/attendence_sys/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/attendence_sys/templates/attendence_sys/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendence_sys/templates/attendence_sys/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/attendence_sys/templates/attendence_sys/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendence_sys/templates/attendence_sys/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/attendence_sys/templates/attendence_sys/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendence_sys/templates/attendence_sys/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/attendence_sys/templates/attendence_sys/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendence_sys/templates/attendence_sys/student_update.html" beforeDir="false" afterPath="$PROJECT_DIR$/attendence_sys/templates/attendence_sys/student_update.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendence_sys/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/attendence_sys/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendence_sys/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/attendence_sys/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/Faculty_Images/VENU_GOPALKADAMBA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/Student_Images/CSE/2/C/18341A05G6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/Student_Images/CSE/2/C/18341A05G7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/Student_Images/CSE/2/C/18341A05G8.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29o28yOxMWZKJ4Mu9jc6OiMridL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Face_Verification_based_Attendance_system" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/attendence_sys" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/attendence_sys/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89badd72-e7e8-43dd-b8a4-89475301901a" name="Changes" comment="" />
+      <created>1653764985587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653764985587</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
